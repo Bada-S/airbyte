@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "id": "integer",
+    "username": "null",
+    "email": "string",
+    "color": "null",
+    "profilePicture": "null",
+    "initials": "string",
+    "role": "integer",
+    "custom_role": "null",
+    "last_active": "null",
+    "date_joined": "null",
+    "date_invited": "string"
+  }
+},

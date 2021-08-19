@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "id": "string",
+    "name": "string",
+    "private": "boolean",
+    "statuses": "array",
+    "multiple_assignees": "boolean",
+    "features": "object",
+    "archived": "boolean"
+  }
+}
